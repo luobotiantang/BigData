@@ -29,46 +29,8 @@
 
 ### 面试准备点
 
- - [Java基础](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/JavaFoundation.md)
- 
- - [线程](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Thread.md)
- 
- - [JVM](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/JVM.md)
- 
- - [算法](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Algorithm.md)
- 
  - [JDK](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/JDK.md)
  
- - [计算机网络](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/ComputerNetwork.md)
- 
- - [Redis](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Redis.md)
- 
- - [MQ](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/MQ.md)
- 
- - [MySQL数据库](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/MySQL.md)
- 
- - [MyBatis](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/MyBatis.md)
- 
- - [Hibernate](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Hibernate.md)
-
- - [Spring](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Spring.md)
- 
- - [SpringMVC](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/SpringMVC.md)
- 
- - [SpringBoot](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/SpringBoot.md)
- 
- - [Dubbo](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Dubbo.md)
- 
- - [Zookeeper](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Zookeeper.md)
- 
- - [分布式](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Distributed.md)
- 
- - [Raincat](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Raincat.md)
- 
- - [Git](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Git.md)
- 
- - [Linux](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/Linux.md)
-
 
 
 ### 联系
