@@ -29,7 +29,7 @@
 
 ### 面试准备点
 
- - [JDK](https://github.com/luobotiantang/InterviewSurprise/blob/master/md/JDK.md)
+ - [JDK](https://github.com/luobotiantang/BigData/blob/master/md/JDK.md)
  
 
 
